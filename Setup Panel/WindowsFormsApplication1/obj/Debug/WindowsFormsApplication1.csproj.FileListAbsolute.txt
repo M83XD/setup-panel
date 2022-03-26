@@ -1,0 +1,18 @@
+c:\users\user\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+c:\users\user\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+c:\users\user\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+c:\users\user\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+c:\users\user\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\guven\Desktop\M83 C# PROGGES\Setup Panel\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\guven\Desktop\M83 C# PROGGES\Setup Panel\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\guven\Desktop\M83 C# PROGGES\Setup Panel\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\guven\Desktop\M83 C# PROGGES\Setup Panel\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\guven\Desktop\M83 C# PROGGES\Setup Panel\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\guven\Desktop\M83 C# PROGGES\Setup Panel\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\guven\Desktop\M83 C# PROGGES\Setup Panel\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\guven\Desktop\M83 C# PROGGES\Setup Panel\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\guven\Desktop\M83 C# PROGGES\Setup Panel\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
